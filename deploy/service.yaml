@@ -1,0 +1,7 @@
+// File: deploy/service.yaml
+
+package main
+
+func main() {
+    println("This is service.yaml")
+}

@@ -1,0 +1,7 @@
+// File: deploy/configmap.yaml
+
+package main
+
+func main() {
+    println("This is configmap.yaml")
+}

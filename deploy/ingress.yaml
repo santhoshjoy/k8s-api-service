@@ -1,0 +1,7 @@
+// File: deploy/ingress.yaml
+
+package main
+
+func main() {
+    println("This is ingress.yaml")
+}
